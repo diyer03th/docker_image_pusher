@@ -1,1 +1,2 @@
 bxyxbxb/portainer-zh:latest-alpine
+dbgate/dbgate:latest
