@@ -1,2 +1,3 @@
 bxyxbxb/portainer-zh:latest-alpine
 dbgate/dbgate:latest
+dbeaver/cloudbeaver:latest
