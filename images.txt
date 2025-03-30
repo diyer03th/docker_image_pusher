@@ -8,3 +8,4 @@ nginx:1.27.4-alpine
 bitnami/gitea:1.23.4-debian-12-r0
 alpinelinux/gitlab:17.7
 gogs/gogs:latest
+linuxserver/ungoogled-chromium:126.0.6478
