@@ -10,3 +10,4 @@ alpinelinux/gitlab:17.7
 gogs/gogs:latest
 linuxserver/ungoogled-chromium:126.0.6478
 lsiobase/kasmvnc:debianbookworm
+cooderl/wewe-rss-sqlite:v2.6.1
