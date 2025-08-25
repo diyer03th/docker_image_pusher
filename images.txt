@@ -15,3 +15,4 @@ cooderl/wewe-rss:v2.6.1
 rustdesk/rustdesk-server-s6:1.1.14
 vinlic/doubao-free-api:0.0.4
 6053537/portainer-ce:2.27.9
+amir20/dozzle:latest
