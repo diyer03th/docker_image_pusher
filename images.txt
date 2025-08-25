@@ -14,4 +14,4 @@ cooderl/wewe-rss-sqlite:v2.6.1
 cooderl/wewe-rss:v2.6.1
 rustdesk/rustdesk-server-s6:1.1.14
 vinlic/doubao-free-api:0.0.4
-docker pull 6053537/portainer-ce:2.27.9
+6053537/portainer-ce:2.27.9
