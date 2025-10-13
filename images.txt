@@ -17,14 +17,3 @@ vinlic/doubao-free-api:0.0.4
 6053537/portainer-ce:2.27.9
 amir20/dozzle:latest
 supabase/studio:2025.10.01-sha-8460121
-kong:2.8.1
-supabase/gotrue:v2.180.0
-postgrest/postgrest:v13.0.7
-supabase/realtime:v2.51.11
-supabase/storage-api:v1.28.0
-darthsim/imgproxy:v3.8.0
-supabase/postgres-meta:v0.91.6
-supabase/edge-runtime:v1.69.6
-supabase/logflare:1.22.6
-timberio/vector:0.28.1-alpine
-supabase/supavisor:2.7.0
