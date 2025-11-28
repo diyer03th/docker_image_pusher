@@ -1,1 +1,2 @@
 supabase/postgres:15.8.1.085
+emqx/emqx:5.8.8
