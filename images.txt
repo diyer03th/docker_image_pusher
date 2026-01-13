@@ -2,3 +2,4 @@ supabase/postgres:15.8.1.085
 emqx/emqx:5.8.8
 nextcloud:32.0.2-fpm-alpine
 allinssl/allinssl:v1.1.1
+6053537/portainer-ce:2.33.6
