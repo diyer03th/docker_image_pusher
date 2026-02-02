@@ -1,3 +1,4 @@
 6053537/portainer-ce:2.33.6
 kasmweb/desktop:1.18.0
 scottyhardy/docker-remote-desktop:ubuntu-24.04
+linuxserver/chrome:144.0.7559
