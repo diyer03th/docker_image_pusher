@@ -4,3 +4,4 @@ scottyhardy/docker-remote-desktop:ubuntu-24.04
 linuxserver/chrome:144.0.7559
 linuxserver/rdesktop:amd64-debian-xfce-922996e7-ls46
 linuxserver/rdesktop:amd64-debian-xfce
+linuxserver/rdesktop:amd64-ubuntu-xfce
