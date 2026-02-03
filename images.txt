@@ -2,3 +2,4 @@
 kasmweb/desktop:1.18.0
 scottyhardy/docker-remote-desktop:ubuntu-24.04
 linuxserver/chrome:144.0.7559
+linuxserver/rdesktop:amd64-debian-xfce
