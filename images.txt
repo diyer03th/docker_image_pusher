@@ -6,4 +6,4 @@ linuxserver/rdesktop:amd64-debian-xfce-922996e7-ls46
 linuxserver/rdesktop:amd64-ubuntu-xfce-60048763-ls181
 gotson/komga:1.24.1
 node:22.17.1-bookworm
-adrianmusante/pocketbase:0.36.5
+coollabsio/pocketbase:0.36.5
