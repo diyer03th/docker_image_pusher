@@ -12,3 +12,4 @@ searxng/searxng:2026.3.29-7ac4ff39f
 nousresearch/hermes-agent:latest
 openwebui/open-webui:0.9.2
 ghcr.io/nesquena/hermes-webui:0.50.220
+docker pull ekkoye8888/hermes-web-ui:c936585174328e42c121ce1f202f009eea5db9bd
