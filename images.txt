@@ -1,1 +1,1 @@
-ekkoye8888/hermes-web-ui:3ef2511141a231e74c454e2ea0d2a631083c950d
+nousresearch/hermes-agent:sha-44cdf555a83c1d8d605d095442e11efd58089533
