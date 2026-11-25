@@ -1,1 +1,1 @@
-postgis/postgis:18-3.7
+postgis/postgis:18-master
